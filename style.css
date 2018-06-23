@@ -1,0 +1,24 @@
+.group{
+
+  background-color: #F7F7F7;
+  overflow: auto;
+  border-style: groove;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+}
+
+p[class^="para"] {
+  height: 30px;
+  text-decoration: none;
+}
+
+p[class^="hide"] {
+  display: none;
+  background-color: white;
+}
